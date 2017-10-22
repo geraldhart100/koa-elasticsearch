@@ -1,0 +1,22 @@
+{
+  "name": "koa-elasticsearch",
+  "version": "0.1.0",
+  "description": "Assign Elasticsearch client to Koa context",
+  "repository": "geraldhart100/koa-elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "koa",
+    "elasticsearch"
+  ],
+  "author": "Che Oshn",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^13.3.1"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
